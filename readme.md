@@ -1,2 +1,2 @@
-I'm just trying to pracice the odin language to understand it better.
-This is also used fo rme to understand git better
+I'm just trying to pratice the odin language to understand it better.
+This is also used for me to understand git better
